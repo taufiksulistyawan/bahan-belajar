@@ -7,10 +7,15 @@ Berikut 10 soal pilihan ganda berbasis **kurikulum deep learning (HOTS, analisis
 ### **1.**
 
 Kondisi ekonomi Indonesia menjelang reformasi ditandai dengan krisis moneter 1997–1998. Dampak paling langsung dari krisis tersebut terhadap kehidupan masyarakat adalah…
+
 A. Stabilitas harga kebutuhan pokok
+
 B. Menurunnya angka pengangguran
+
 C. Nilai rupiah menguat drastis
+
 D. Harga kebutuhan pokok meningkat tajam
+
 E. Meningkatnya investasi asing
 
 ✅ **Jawaban: D**
